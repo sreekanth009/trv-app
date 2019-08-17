@@ -6,12 +6,14 @@ In the project directory
 
 ### `cd in trv-venue-hotel-api`
 
-### yarn install
+Please follow below commands
+
+### `yarn install`
 
 after yarn install run 
 
 ### `yarn run server`
 
-Runs the app in the development mode.<br>
+This will runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
