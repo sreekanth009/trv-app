@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory
 
-### `cd in trv-venue-hotel-api`
+### `cd in to trv-venue-hotel-api`
 
 Please follow below commands
 
@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 In the project directory
 
-### `cd in trv-venue-hotel-client`
+### `cd in to trv-venue-hotel-client`
 
 Please follow below commands
 
