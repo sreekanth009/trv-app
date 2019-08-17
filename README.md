@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Set up JSON-Server
+
 ### `Set up API`
 
 ### `cd in trv-venue-hotel-api`
