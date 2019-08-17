@@ -1,0 +1,326 @@
+{"hotels": [
+  {
+    "id": "7edf41dc-c071-46ba-84e8-6d1a02bd0d01",
+    "name": "Handcrafted Concrete Towels",
+    "description": "Dicta et enim harum. Dolorem porro et laboriosam accusantium quo. Ipsum eveniet consequuntur fugit ducimus impedit.\n \rAlias est deleniti aut consequuntur non impedit illo quis neque.",
+    "distance_to_venue": 1,
+    "rating": 3.8,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "gym",
+      "spa",
+      "restaurant"
+    ],
+    "images": [
+      "http://via.placeholder.com/140x100",
+      "http://via.placeholder.com/100x140",
+      "http://via.placeholder.com/140x140"
+    ],
+    "room_type": [
+      {
+        "id": "72ef0e74-9375-4df2-8aed-48008e140fa1",
+        "name": "Delux room",
+        "description": "qui dolores sit facilis qui",
+        "max_occupancy": 3,
+        "price_in_usd": 131,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "09de7a96-2711-4dbc-b41b-7f5a3ff691e4",
+        "name": "Delux balcony room",
+        "description": "Dolor doloremque dolores sit facilis quia.",
+        "max_occupancy": 2,
+        "price_in_usd": 291,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "ba265b9f-85f4-44eb-819d-a689b0395f01",
+        "name": "Delux suite",
+        "description": "Sit nihil explicabo.",
+        "max_occupancy": 2,
+        "price_in_usd": 444,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "f4996123-e625-4408-83a4-9a984a080683",
+        "name": "Super delux suite",
+        "description": "Voluptatem consequuntur omnis possimus quis.",
+        "max_occupancy": 2,
+        "price_in_usd": 600,
+        "img": "http://via.placeholder.com/140x140"
+      }
+    ]
+  },
+  {
+    "id": "e6be5457-2574-4ae4-859a-451b8d4a9527",
+    "name": "Licensed Cotton Ball",
+    "description": "Et aspernatur minus aut sit perspiciatis magni amet. Non sapiente quisquam quasi esse dolore. Ea ullam nihil perferendis quaerat. Laudantium aut asperiores occaecati at voluptates qui.",
+    "distance_to_venue": 6.8,
+    "rating": 2,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "gym",
+      "spa",
+      "restaurant"
+    ],
+    "images": [
+      "http://via.placeholder.com/140x100",
+      "http://via.placeholder.com/100x140",
+      "http://via.placeholder.com/140x140"
+    ],
+    "room_type": [
+      {
+        "id": "1f167a27-345f-4b4d-a346-7209ef0cb947",
+        "name": "Delux room",
+        "description": "Quia saepe porro neque qui assumenda tenetur vitae illo neque.",
+        "max_occupancy": 3,
+        "price_in_usd": 114,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "462f47c7-b83f-4c53-80ee-00b91b2b2dc9",
+        "name": "Delux balcony room",
+        "description": "Quia quo et ipsum mollitia quaerat aut. Corporis qui deserunt .",
+        "max_occupancy": 2,
+        "price_in_usd": 182,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "f5b866a3-c029-4b8d-8730-243133330806",
+        "name": "Delux suite",
+        "description": "neque assumenda tenetur vitae ill.",
+        "max_occupancy": 2,
+        "price_in_usd": 401,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "6aeec56a-31d8-4aa6-a56e-987dd13c663b",
+        "name": "Super delux suite",
+        "description": "Sapiente culpa et perspiciatis illum.",
+        "max_occupancy": 2,
+        "price_in_usd": 503,
+        "img": "http://via.placeholder.com/140x140"
+      }
+    ]
+  },
+  {
+    "id": "ee13f447-024b-4657-9eab-a6d92ba6afd1",
+    "name": "Refined Cotton Chair",
+    "description": "possimus praesentium eos qui assumenda tenetur vitae illo.",
+    "distance_to_venue": 3.6,
+    "rating": 2.2,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "gym",
+      "spa",
+      "restaurant"
+    ],
+    "images": [
+      "http://via.placeholder.com/140x100",
+      "http://via.placeholder.com/100x140",
+      "http://via.placeholder.com/140x140"
+    ],
+    "room_type": [
+      {
+        "id": "83621a34-bf25-40ea-84b5-410e92d8a4a6",
+        "name": "Delux room",
+        "description": "dolor eum voluptas tur impedit voluptatem.",
+        "max_occupancy": 2,
+        "price_in_usd": 107,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "d83854e5-905c-460a-9185-6f67c70d6dcd",
+        "name": "Delux balcony room",
+        "description": "et laboriosam porro Neque dicta eu.",
+        "max_occupancy": 3,
+        "price_in_usd": 295,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "2d389bac-d34f-4919-a898-37acb8605d52",
+        "name": "Delux suite",
+        "description": "Incidunt nobis corporis sunt qui. Neque dicta eum.",
+        "max_occupancy": 2,
+        "price_in_usd": 309,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "00d9f3fe-6e00-4c38-abdd-7ccf733f04c6",
+        "name": "Super delux suite",
+        "description": "Rerum commodi voluptas consequatur impedit voluptatem nulla quis.",
+        "max_occupancy": 2,
+        "price_in_usd": 563,
+        "img": "http://via.placeholder.com/140x140"
+      }
+    ]
+  },
+  {
+    "id": "b2429f85-ea36-4686-91e6-214e662c51ea",
+    "name": "Handmade Concrete Chicken",
+    "description": "Voluptatum provident laborum aut aut aut autem quisquam sit.",
+    "distance_to_venue": 7.7,
+    "rating": 1.1,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "gym",
+      "spa",
+      "restaurant"
+    ],
+    "images": [
+      "http://via.placeholder.com/140x100",
+      "http://via.placeholder.com/100x140",
+      "http://via.placeholder.com/140x140"
+    ],
+    "room_type": [
+      {
+        "id": "330a7ee6-844e-4782-874f-73b3af979300",
+        "name": "Delux room",
+        "description": "Et molestias sapiente. Possimus error nulla nisi.",
+        "max_occupancy": 2,
+        "price_in_usd": 142,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "180800b9-ae7a-49cd-ba00-477f68fec369",
+        "name": "Delux balcony room",
+        "description": "Quis est dignissimos voluptas nostrum perferendis.",
+        "max_occupancy": 2,
+        "price_in_usd": 238,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "cb849cec-ff9f-46ca-a8dc-4501f22f4db5",
+        "name": "Delux suite",
+        "description": "Inventore et tenetur est in in aliquid omnis.",
+        "max_occupancy": 2,
+        "price_in_usd": 413,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "6ab281c0-e343-4c45-aea9-f9881b7a0bec",
+        "name": "Super delux suite",
+        "description": "Et porro eligendi quis.",
+        "max_occupancy": 2,
+        "price_in_usd": 646,
+        "img": "http://via.placeholder.com/140x140"
+      }
+    ]
+  },
+  {
+    "id": "ff9a916d-c10f-4b32-ad95-f26560c66050",
+    "name": "Awesome Frozen Keyboard",
+    "description": "enim",
+    "distance_to_venue": 5.4,
+    "rating": 2.7,
+    "price_category": "low",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "gym",
+      "spa",
+      "restaurant"
+    ],
+    "images": [
+      "http://via.placeholder.com/140x100",
+      "http://via.placeholder.com/100x140",
+      "http://via.placeholder.com/140x140"
+    ],
+    "room_type": [
+      {
+        "id": "841b26f0-af95-40ea-935a-0bee26fd9bca",
+        "name": "Delux room",
+        "description": "Voluptate deleniti quaerat ipsam sit.",
+        "max_occupancy": 3,
+        "price_in_usd": 135,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "98ed2434-75b9-4b28-b036-388fddea8c90",
+        "name": "Delux balcony room",
+        "description": "Facere similique incidunt a est suscipit.",
+        "max_occupancy": 2,
+        "price_in_usd": 246,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "59066c00-751d-4e37-8b3d-027b184499b6",
+        "name": "Delux suite",
+        "description": "Ut numquam nisi sequi et necessitatibus.",
+        "max_occupancy": 2,
+        "price_in_usd": 404,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "0ed2e2a9-8836-4ba3-8400-75d7f1c84884",
+        "name": "Super delux suite",
+        "description": "Itaque aut corporis ad.",
+        "max_occupancy": 2,
+        "price_in_usd": 617,
+        "img": "http://via.placeholder.com/140x140"
+      }
+    ]
+  },
+  {
+    "id": "aef9b5cf-45a2-40e9-bde9-81d8c51692ea",
+    "name": "Handcrafted Plastic Car",
+    "description": "Nihil ut eos atque occaecati rerum accusamus soluta a sed.",
+    "distance_to_venue": 6.4,
+    "rating": 2,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "gym",
+      "spa",
+      "restaurant"
+    ],
+    "images": [
+      "http://via.placeholder.com/140x100",
+      "http://via.placeholder.com/100x140",
+      "http://via.placeholder.com/140x140"
+    ],
+    "room_type": [
+      {
+        "id": "71fd1adf-c5eb-4b14-a36f-d7d78f021b45",
+        "name": "Delux room",
+        "description": "Exercitationem libero quam eum consequatur.",
+        "max_occupancy": 2,
+        "price_in_usd": 99,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "326fa8b9-3992-4f9a-8819-3027c0824c04",
+        "name": "Delux balcony room",
+        "description": "nulla quam mollitia",
+        "max_occupancy": 3,
+        "price_in_usd": 198,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "eaa33f47-1b6e-4d30-9b04-86ecf184c223",
+        "name": "Delux suite",
+        "description": "Labore dolorem saepe magnam ipsam vero rerum.",
+        "max_occupancy": 2,
+        "price_in_usd": 414,
+        "img": "http://via.placeholder.com/140x140"
+      },
+      {
+        "id": "38b8d3e7-b358-4941-9a98-621b40e73566",
+        "name": "Super delux suite",
+        "description": "Hic et est.",
+        "max_occupancy": 2,
+        "price_in_usd": 637,
+        "img": "http://via.placeholder.com/140x140"
+      }
+    ]
+  }
+]}

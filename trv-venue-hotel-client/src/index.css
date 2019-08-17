@@ -1,0 +1,289 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/******************************/
+/******** TRV STYLES ***********/
+/******************************/
+
+ul, ul li, h1 , h2, h3, h4, p {
+  padding: 0;
+  margin: 0;
+} 
+
+ul li {
+  list-style: none;
+}
+
+#root {
+  width: 100%;
+}
+
+
+/******************************/
+/******** HEADER STYLES ********/
+/******************************/
+
+.navbar-wrap {
+  height: 80px;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.1);
+}
+
+.navbar {
+  max-width: 1280px;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+}
+
+.navbar .navbar-header {
+  width: 200px;
+  padding: 25px 0;
+}
+
+.navbar .navbar-header .navbar-brand {
+  font-size: 22px;
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.navbar .navbar-nav-main {
+  padding: 30px 0;
+  width: 75%;
+}
+
+.navbar .navbar-nav-main li a {
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  margin-left: 15px;
+  vertical-align: super;
+}
+
+.navbar .navbar-nav.navbar-right {
+  padding: 25px 0; 
+  width: 15%;
+  text-align: center;
+}
+
+.navbar .navbar-nav.navbar-right li span.fa-user-circle {
+  font-size: 30px;
+}
+
+.navbar .navbar-nav.navbar-right li p {
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 15px;
+  vertical-align: super;
+  display: inline-block;
+}
+
+.navbar .navbar-nav.navbar-right li p span {
+  padding-left: 10px;
+}
+
+/******************************/
+/******** LANDING PAGE STYLES ********/
+/******************************/
+
+.landing-page .container, .details-page .container {
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 1279px) {
+  .landing-page .container {
+    width: 100%;
+  }
+}
+
+.landing-page .filter-heading {
+  padding: 0 15px;
+}
+
+.landing-page .filter-block {
+  border-right: 1px solid #e3e3e3;
+  padding: 10px 20px;
+}
+
+.landing-page .filter-block .filter-column {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.landing-page .filter-block .filter-column p {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.landing-page .filter-block .filter-column ul {
+  margin-top: 10px;
+}
+
+.landing-page .filter-block .filter-column ul li {
+  padding: 5px 0;
+}
+
+.landing-page .filter-block .filter-column ul li label {
+  margin-left: 10px;
+  color: #808080;
+}
+
+/******************************/
+/******** HOTEL LIST STYLES ********/
+/******************************/
+
+.hotel-list {
+  margin-top: 20px;
+  padding-bottom: 100px;
+}
+
+.hotel-list .hotel-card {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #e3e3e3;
+}
+
+.hotel-list .hotel-card .image-block {
+  margin-right: 15px;
+}
+.hotel-list .hotel-card .image-block img {
+  width: 100%;
+}
+
+.hotel-list .hotel-card .hotel-detail-block, .hotel-list .hotel-card .hotel-booking-block {
+  height: 100%;
+  position: relative;
+}
+
+.hotel-list .hotel-card .hotel-detail-block h3 {
+  margin-bottom: 15px;
+}
+
+.hotel-list .hotel-card .hotel-detail-block p.distance-to-venue, p.price {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+p.price {
+  position: absolute;
+  bottom: 0;
+  text-transform: capitalize;
+}
+
+.hotel-list .hotel-card .hotel-detail-block p.distance-to-venue span {
+  font-size: 16px;
+  color: #00a7fd;
+  /* margin-right: 10px; */
+}
+
+.hotel-list .hotel-card .hotel-booking-block p.rating {
+  font-size: 12px;
+  margin-bottom: 15px;
+  color: #fff;
+  background: #1ab64f;
+  padding: 5px;
+  border-radius: 3px;
+  display: block;
+  width: 40px;
+  text-align: center;
+}
+
+.hotel-list .hotel-card .hotel-booking-block .booking-btn {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+}
+
+.hotel-list .hotel-card .hotel-booking-block .booking-btn button {
+  min-width: 80px;
+  padding: 7px 6px;
+  margin-right: 10px;
+  font-size: 14px;
+  text-transform: capitalize;
+  border: 0;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.hotel-list .hotel-card .hotel-booking-block .booking-btn button:last-child {
+  margin-right: 0;
+}
+
+.hotel-list .hotel-card .hotel-booking-block .booking-btn .view-details {
+  border: 1px solid #e3e3e3;
+}
+
+.hotel-list .hotel-card .hotel-booking-block .booking-btn .book-now {
+  background: #1a55b6;
+  color: #fff;
+}
+
+/******************************/
+/******** DETAILS PAGE STYLES ********/
+/******************************/
+
+.details-page .container .hotel-gallery img {
+  width: 100%;
+}
+
+.details-page .container .hotel-gallery .hotel-name, .details-page .container .hotel-gallery .hotel-desc {
+  margin: 10px 0;
+  padding: 0 10px;
+  width: 85%;
+}
+
+.details-page .container .hotel-gallery .hotel-desc {
+  line-height: 1.5;
+}
+
+.details-page .container .room-types {
+  margin-top: 30px;
+  padding-bottom: 100px;
+}
+
+.details-page .container .room-types h3 {
+  padding: 0 10px;
+}
+
+.details-page .container .room-types ul li {
+  display: flex;
+  padding: 15px 0;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.details-page .container .room-types ul li img {
+  height: 160px;
+  padding: 0;
+}
+
+.details-page .container .room-types ul li p {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 15px;
+}
+
+.details-page .container .room-types ul li p span {
+  font-size: 14px;
+  font-weight: 700;
+}
