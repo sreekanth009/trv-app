@@ -1,12 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Set up JSON-Server
 
-In the project directory, you can run:
-
-### Set up JSON-Server
-
-### `Set up API`
+In the project directory
 
 ### `cd in trv-venue-hotel-api`
 
